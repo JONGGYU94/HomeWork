@@ -30,6 +30,7 @@ public class MemberController {
 		
 		System.out.println(m.getMemberId());
 		System.out.println(m.getMemberPwd());
+		System.out.println("안녕하세요 깃허브 확인용입니다");
 		
 		
 		//Member loginUser = mService.loginCheck(m);
