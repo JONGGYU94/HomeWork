@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hi
-다시한번 내 브랜치로 테스트 해봅니다.
+qwdwqdwqdwqdqwdwqdwqdwqdwqdwq
 </body>
 </html>
